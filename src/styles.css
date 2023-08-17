@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+.slick-dots{
+    text-align: right !important;
+}
+
+
+.slick-dots li button:before {
+
+    font-size: 16px !important;
+
+    color: #C24848 !important;
+    ;
+}
+
+.slick-dots li button {
+    
+    color: #C1C1C1 !important;
+   
+}
+
